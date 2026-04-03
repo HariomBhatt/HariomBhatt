@@ -13,9 +13,16 @@
 </a>
 <img src="https://img.shields.io/badge/TryHackMe-Top%208%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔐+Aspiring+SOC+Analyst;🕵️+Web+App+Penetration+Tester;🌐+Network+Vulnerability+Assessor;🛡️+MITRE+ATT%26CK+%7C+CVSS+%7C+OWASP" alt="Typing SVG" />
+![Aspiring SOC Analyst](https://img.shields.io/badge/🔐%20Aspiring-SOC%20Analyst-00b4d8?style=flat-square)
+![Penetration Tester](https://img.shields.io/badge/🕵️%20Web%20App-Penetration%20Tester-ef233c?style=flat-square)
+![Network Security](https://img.shields.io/badge/🌐%20Network-Vulnerability%20Assessor-7209b7?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/🛡️%20MITRE%20ATT%26CK-CVSS%20%7C%20OWASP-2d6a4f?style=flat-square)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=550&height=45&lines=Aspiring+SOC+Analyst;Web+App+Penetration+Tester;Network+Vulnerability+Assessor;MITRE+ATT%26CK+%7C+CVSS+%7C+OWASP)](https://git.io/typing-svg)
 
 </div>
 
