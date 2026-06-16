@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hariom%20Bhatt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20Penetration%20Tester%20%7C%20DevSecOps&descAlignY=58&descColor=a0c4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hariom%20Bhatt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Professional%20%7C%20Penetration%20Tester%20%7C%20DevSecOps%20%7C%20Digital%20Forensics&descAlignY=58&descColor=a0c4ff"/>
 
 <a href="https://linkedin.com/in/hariombhatt">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,18 +11,19 @@
 <a href="https://tryhackme.com">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/TryHackMe-Top%207%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 <br/>
 
 ![Web App Pentester](https://img.shields.io/badge/🕵️%20Web%20App-Penetration%20Tester-ef233c?style=flat-square)
 ![Network Security](https://img.shields.io/badge/🌐%20Network-Vulnerability%20Assessor-7209b7?style=flat-square)
+![Digital Forensics](https://img.shields.io/badge/🔬%20Digital-Forensics%20Investigator-00b4d8?style=flat-square)
 ![DevSecOps](https://img.shields.io/badge/🔧%20DevSecOps-Pipeline%20Security-2d6a4f?style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/🛡️%20MITRE%20ATT%26CK-CVSS%20%7C%20OWASP-0f3460?style=flat-square)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&height=45&lines=Web+App+Penetration+Tester;Network+Vulnerability+Assessor;DevSecOps+%7C+CI%2FCD+Pipeline+Security;MITRE+ATT%26CK+%7C+CVSS+%7C+OWASP+Top+10)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Web+App+Penetration+Tester;Network+Vulnerability+Assessor;Digital+Forensics+%7C+Incident+Response;DevSecOps+%7C+CI%2FCD+Pipeline+Security;MITRE+ATT%26CK+%7C+CVSS+%7C+OWASP+Top+10)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,6 +43,7 @@ class HariomBhatt:
     interests  = [
         "Web Application Penetration Testing (VAPT)",
         "Network Vulnerability Assessment",
+        "Digital Forensics & Incident Response",
         "DevSecOps Pipeline Security",
         "Exploit Development",
         "CTF Challenges",
@@ -49,10 +51,10 @@ class HariomBhatt:
 
     currently_learning = ["CompTIA Security+", "Advanced Threat Hunting"]
     open_to_work       = True
-    target_roles       = ["Web Application Penetration Tester", "Network Security Analyst"]
+    target_roles       = ["Web Application Penetration Tester", "Network Security Analyst", "Digital Forensics Analyst"]
 ```
 
-I'm a final-year Computer Science student with hands-on experience in **web application and network penetration testing (VAPT)**, **vulnerability assessment**, **exploit development**, and **DevSecOps pipeline security**. I work with tools like Burp Suite, Nmap, Metasploit, and SQLmap, and I deliver professional pentest reports with CVSS v3.1 risk ratings. Ranked **Top 7% globally on TryHackMe**.
+I'm a final-year Computer Science student with hands-on experience in **web application and network penetration testing (VAPT)**, **vulnerability assessment**, **digital forensics**, **exploit development**, and **DevSecOps pipeline security**. I work with tools like Burp Suite, Nmap, Metasploit, SQLmap, Autopsy, and FTK Imager, and I deliver professional pentest and forensic reports with CVSS v3.1 risk ratings. Ranked **Top 5% globally on TryHackMe**.
 
 ---
 
@@ -78,6 +80,15 @@ I'm a final-year Computer Science student with hands-on experience in **web appl
   <img src="https://img.shields.io/badge/XSS-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Auth%20Bypass-9400D3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SSRF-FF0055?style=for-the-badge"/>
+</p>
+
+### 🔬 Digital Forensics
+<p align="left">
+  <img src="https://img.shields.io/badge/Autopsy-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FTK%20Imager-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Registry%20Analysis-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Timeline%20Reconstruction-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Disk%20Imaging-2d6a4f?style=for-the-badge"/>
 </p>
 
 ### 🔧 DevSecOps
@@ -247,14 +258,59 @@ Reconnaissance ──► Enumeration ──► Exploitation ──► Post-Explo
 
 ---
 
+### 🔵 Project 4 — Digital Forensics Investigation Using Autopsy & FTK Imager
+
+<img src="https://img.shields.io/badge/Type-Digital%20Forensics-00b4d8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge"/>
+
+> Conducted a full **digital forensics investigation** on a Windows disk image, recovering deleted evidence and reconstructing a timeline of suspicious user activity.
+
+#### 🎯 What I Did
+- 💽 Performed **forensic acquisition** and analysis of a Windows disk image using **FTK Imager** and **Autopsy**
+- 🗑️ Recovered **deleted files** through file carving and analyzed unallocated space for hidden evidence
+- 🌐 Analyzed **browser activity** (history, cache, downloads) to trace user actions on the system
+- 🗂️ Examined **Windows registry entries** and system artifacts to identify installed programs, USB activity, and recent file access
+- 🕒 Reconstructed an **evidence-based timeline** to investigate suspicious file access and deletion events
+- 📄 Produced a professional **forensic report** detailing methodology, findings, and supporting evidence
+
+#### 🛠️ Tools Used
+<p>
+  <img src="https://img.shields.io/badge/Autopsy-0078D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FTK%20Imager-CC0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Registry%20Analysis-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Browser%20Forensics-2d6a4f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+</p>
+
+#### 🔍 Findings Summary
+| Area | Detail |
+|------|--------|
+| Disk Image | Windows disk image acquired and verified using FTK Imager |
+| Deleted Files | Recovered via file carving on unallocated space in Autopsy |
+| Browser Artifacts | History, cache, and download records reviewed for user activity |
+| Registry Analysis | Examined for installed software, USB history, and recent activity |
+| Timeline | Evidence-based timeline built around suspicious file access/deletion |
+| Output | Professional forensic report with methodology and findings |
+
+#### 🧭 Investigation Workflow
+```
+Acquisition ──► Triage ──► Artifact Analysis ──► Timeline Reconstruction ──► Reporting
+     │              │              │                       │                    │
+  FTK Imager     Autopsy        Browser history,      Evidence-based       Methodology +
+ (disk image,   case setup &    registry, deleted       suspicious           findings +
+  hash verify)  file indexing      files                activity timeline    evidence
+```
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
 
 | 🥇 Achievement | 📋 Details |
 |---|---|
-| 🎯 TryHackMe Top 7% | Global ranking — web app & network penetration testing, vulnerability assessment |
+| 🎯 TryHackMe Top 5% | Global ranking — web app & network penetration testing, vulnerability assessment, digital forensics |
 | 🚩 CTF Competitor | Solved challenges in web exploitation, privilege escalation, and network security |
+| 🔬 Digital Forensics | Conducted disk-image forensic investigations using Autopsy & FTK Imager, including artifact recovery and timeline reconstruction |
 | 📄 Security Reports | Delivered with PoC, CVSS v3.1 scoring, business impact analysis & remediation |
 
 </div>
@@ -309,11 +365,11 @@ Graphic Era Hill University, Dehradun — *2022 – 2026*
 
 ### 🤝 Let's Connect
 
-*Open to entry-level cybersecurity opportunities — Web App Penetration Tester, Network Security Analyst, Security Engineer*
+*Open to entry-level cybersecurity opportunities — Web App Penetration Tester, Network Security Analyst, Digital Forensics Analyst, Security Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hariombhatt)
 [![Email](https://img.shields.io/badge/Email-hariombhatt95@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:hariombhatt95@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%207%25-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
 
