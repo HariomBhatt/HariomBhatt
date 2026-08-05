@@ -373,13 +373,15 @@ Code Commit ──► SAST (CodeQL) ──► SCA (Snyk) ──► Build ──�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariombhatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariombhatt&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HariomBhatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomBhatt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariombhatt&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HariomBhatt&theme=tokyonight&hide_border=true"/>
 </div>
+
+> ⚠️ If the stats cards above show a "Failed to retrieve contributions" error, it's a known rate-limit issue with the free public `github-readme-stats` demo service — not a problem with this README. It usually resolves on its own after a refresh/cache reset. For a permanent fix, deploy your own free instance (fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) → deploy to Vercel) and swap the URLs above with your own deployment's domain.
 
 ---
 
