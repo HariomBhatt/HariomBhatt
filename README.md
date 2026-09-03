@@ -37,7 +37,6 @@ class HariomBhatt:
     university = "Graphic Era Hill University, Dehradun"
     location   = "Haridwar, Uttarakhand, India"
     email      = "hariombhatt95@gmail.com"
-    phone      = "+91-8266967620"
 
     interests  = [
         "Machine Learning & Predictive Analytics",
