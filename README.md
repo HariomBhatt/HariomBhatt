@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hariom%20Bhatt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20GenAI%20Enthusiast%20%7C%20Fresher%202026&descAlignY=58&descColor=a0c4ff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hariom%20Bhatt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Building%20GenAI%20Agents%20%7C%20Class%20of%202026&descAlignY=58&descColor=a0c4ff"/>
 
 <a href="https://linkedin.com/in/hariombhatt">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-![AI/ML Engineer](https://img.shields.io/badge/🤖%20AI%2FML-Engineer%20(Fresher)-2596CD?style=flat-square)
+![AI/ML Engineer](https://img.shields.io/badge/🤖%20AI%2FML-Engineer%20%7C%20Agent%20Builder-2596CD?style=flat-square)
 ![GenAI](https://img.shields.io/badge/✨%20GenAI-Agents%20%7C%20LLMs-7209b7?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/👁️%20Computer-Vision-6a4c93?style=flat-square)
 ![Data Science](https://img.shields.io/badge/📊%20Data-Science%20%7C%20Analytics-2d6a4f?style=flat-square)
@@ -33,10 +33,11 @@
 ```python
 class HariomBhatt:
     name       = "Hariom Bhatt"
-    role       = "Aspiring AI/ML Engineer | GenAI & Agents Enthusiast | B.Tech CSE 2026"
+    role       = "Aspiring AI/ML Engineer | Building GenAI Agents | B.Tech CSE 2026"
     university = "Graphic Era Hill University, Dehradun"
     location   = "Haridwar, Uttarakhand, India"
     email      = "hariombhatt95@gmail.com"
+    phone      = "+91-8266967620"
 
     interests  = [
         "Machine Learning & Predictive Analytics",
