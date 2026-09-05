@@ -155,7 +155,50 @@ User Query ──► Research Agent (Tavily Search) ──► Scraping/Extractio
 
 ---
 
-### ❤️ Project 2 — Heart Attack Risk Prediction
+### 📚 Project 2 — CourseMate AI — RAG-Based Study Assistant
+
+<img src="https://img.shields.io/badge/Type-GenAI%20%7C%20RAG-7209b7?style=for-the-badge"/>
+
+> A Streamlit-based AI study assistant that lets users upload PDF books and ask questions about their content, powered by a Retrieval-Augmented Generation pipeline.
+
+#### 🎯 What I Did
+- 📄 Built a pipeline to extract text from uploaded PDF books and split it into smaller chunks for processing
+- 🧬 Generated local embeddings with **Hugging Face** and stored them in a **ChromaDB** vector database
+- 🔎 Implemented an **MMR retriever** to surface the most relevant document chunks for a given question
+- 🧠 Generated contextual answers using **Groq's LLM**, with role-based explanations to customize responses for the selected user role
+- 🖥️ Delivered the experience through an interactive **Streamlit** interface
+
+#### 🛠️ Tools Used
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyPDF-333333?style=flat-square"/>
+</p>
+
+#### 🔄 Pipeline
+```
+PDF Book ──► Document Loading ──► Text Splitting ──► Hugging Face Embeddings
+                                                              │
+                                                              ▼
+                                                   ChromaDB Vector Database
+                                                              │
+User Question ──────────────────────────────────────────────┤
+                                                              ▼
+                                        MMR Retriever ──► Relevant Document Chunks
+                                                              │
+                                                              ▼
+                                                        Groq LLM ──► Generated Answer
+```
+
+🔗 [View Repository](https://github.com/HariomBhatt/CourseMate-AI-RAG-Based-Study-Assistant)
+
+---
+
+### ❤️ Project 3 — Heart Attack Risk Prediction
 
 <img src="https://img.shields.io/badge/Type-Machine%20Learning-2596CD?style=for-the-badge"/>
 
@@ -178,7 +221,7 @@ User Query ──► Research Agent (Tavily Search) ──► Scraping/Extractio
 
 ---
 
-### 🌫️ Project 3 — Air Quality Index (AQI) Prediction
+### 🌫️ Project 4 — Air Quality Index (AQI) Prediction
 
 <img src="https://img.shields.io/badge/Type-Machine%20Learning-2596CD?style=for-the-badge"/>
 
@@ -201,7 +244,7 @@ User Query ──► Research Agent (Tavily Search) ──► Scraping/Extractio
 
 ---
 
-### 📈 Project 4 — Hybrid Stock Market Trend Prediction using ML & Sentiment Analysis
+### 📈 Project 5 — Hybrid Stock Market Trend Prediction using ML & Sentiment Analysis
 
 <img src="https://img.shields.io/badge/Type-Machine%20Learning-2596CD?style=for-the-badge"/>
 
@@ -236,7 +279,7 @@ Market Data + News ──► Preprocessing & Feature Engineering ──► Senti
 
 ---
 
-### 📦 Project 5 — E-Commerce Sales & Profit Analytics Dashboard
+### 📦 Project 6 — E-Commerce Sales & Profit Analytics Dashboard
 
 <img src="https://img.shields.io/badge/Type-Data%20Analytics-2d6a4f?style=for-the-badge"/>
 
